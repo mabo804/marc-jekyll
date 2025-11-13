@@ -1,18 +1,12 @@
----
-layout: page
-title: About
-permalink: /about/
----
+# Sobre mi
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hola! 👋 Sóc en Marc, estudiant de ciberseguretat.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+## Objectius
+- Aprendre Jekyll
+- Practicar Markdown
+- Publicar amb GitHub Pages
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+**Aquest lloc web** és un exemple creat amb *Jekyll*.
 
-
-[jekyll-organization]: https://github.com/jekyll
+> “La millor seguretat és la prevenció.” — Algú savi

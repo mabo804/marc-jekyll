@@ -1,3 +1,9 @@
+---
+layout: page
+title: Sobre mi
+permalink: /sobre-mi/
+---
+
 # Sobre mi
 
 Hola! 👋 Sóc en Marc, estudiant de ciberseguretat.
@@ -10,3 +16,4 @@ Hola! 👋 Sóc en Marc, estudiant de ciberseguretat.
 **Aquest lloc web** és un exemple creat amb *Jekyll*.
 
 > “La millor seguretat és la prevenció.” — Algú savi
+

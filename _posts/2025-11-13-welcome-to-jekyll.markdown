@@ -1,8 +1,8 @@
 
 | Servei | Descripció | Preu |
 |--------|-------------|------|
-| Pentesting | Proves de seguretat | 500€ |
-| Auditories | Avaluació completa | 800€ |
+| Pentesting | Proves de seguretat |
+| Auditories | Avaluació completa |
 
 
 ```bash

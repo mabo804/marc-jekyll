@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ciberseguretat avui"
-date: 2025-11-10
+date: 2025-11-13
 categories: blog
 ---
 
